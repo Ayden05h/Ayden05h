@@ -1,4 +1,3 @@
--
 ## Hello, I am Ayden Hall :)
 I am a computer science major at Lourdes University. I love all things tech related and I love how complex code can be sometimes. I am currently taking a class on web development to gain new skills and get better at this whole web thing. I am very passionate about the buisness side of tech and the overall user expirence!
 
