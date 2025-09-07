@@ -16,11 +16,11 @@ I am a computer science major at Lourdes University. I love all things tech rela
   -**Email**: ayden.hall@mymail.lourdes.edu
   -**Portfolio**:[coming soon]
 
-  ##Fun Facts!
-  I am a student athlete who plays baseball
-  I can throw a baseball 95mph
-  I enjoy videogames
-  I am forklift certified
+##Fun Facts!
+I am a student athlete who plays baseball
+I can throw a baseball 95mph
+I enjoy videogames
+I am forklift certified
 
 
 <!--
