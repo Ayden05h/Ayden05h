@@ -1,7 +1,7 @@
 ## Hello, I am Ayden Hall :)
 I am a computer science major at Lourdes University. I love all things tech related and I love how complex code can be sometimes. I am currently taking a class on web development to gain new skills and get better at this whole web thing. I am very passionate about the buisness side of tech and the overall user expirence!
 
-##Projects
+## Projects
 - Workout Chatbot – Academic Project
 •	Built a chatbot that guides users through workout routines based on user input
 •	Implemented rule-based logic to simulate conversational interaction
@@ -28,7 +28,7 @@ I am a computer science major at Lourdes University. I love all things tech rela
   -**Email**: ayden.hall@mymail.lourdes.edu
   -**Portfolio**:[coming soon]
 
-  ##Fun Facts!
+  ## Fun Facts!
 -I am a student athlete who plays baseball
 -I can throw a baseball 95mph
 -I enjoy videogames
