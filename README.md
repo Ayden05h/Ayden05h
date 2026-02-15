@@ -7,9 +7,8 @@ I am a computer science major at Lourdes University. I love all things tech rela
 - **Currently learning**: SQL Databases, Node.js, and React
 
   ## What I'm currently working on!
-  -Building responsive websites apart of my web development course
-  -Creating a personal portfolio to show off my work
-  -Contributing documentation improvements to open source projects
+  -Learning Algorithms
+  -Backend application development
 
   ## Lets Connect!
   -**Linked in**: [Ayden Hall] (www.linkedin.com/in/ayden-hall-aabb0b2b9)
