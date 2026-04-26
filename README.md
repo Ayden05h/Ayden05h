@@ -34,7 +34,72 @@ I am a computer science major at Lourdes University. I love all things tech rela
 -I enjoy videogames
 -I am forklift certified
 
-
+📌 This project is part of my professional portfolio, where I showcase full-stack backend development skills through real-world applications.
+📖 Project Description
+The BaseballAPI is a full CRUD REST API designed to manage baseball teams, players, and player statistics in a structured and relational database system. This project reflects my ability to build scalable backend systems that simulate real-world data interactions, similar to applications used in sports analytics and team management platforms.
+This project connects directly to my skill stack as a developer transitioning into data-focused roles. I combined backend development with structured data handling, demonstrating my ability to organize, store, and analyze data efficiently. Using tools like Sequelize ORM and SQLite, I implemented relationships between entities (teams, players, and stats), which mirrors how real-world databases are designed for performance and clarity.
+A major focus of this project was building clean, maintainable code with strong architecture. I implemented middleware for logging and error handling, ensuring the API is both debuggable and production-ready. Additionally, I emphasized input validation and structured routing, which are critical for building reliable and secure applications.
+This project highlights my strengths as a detail-oriented problem solver, my ability to work with data-driven systems, and my growing interest in combining software development with data analysis.
+🚀 Live Links
+🔗 GitHub Repository:
+https://github.com/Ayden05h/BaseballAPI
+Deployed Link: 
+https://baseballapi.onrender.com/
+📌 Features
+Full CRUD functionality for:
+Teams
+Players
+Player Statistics
+Relational database using Sequelize associations
+SQLite database (no external setup required)
+Input validation and error handling
+Custom logging middleware
+Centralized error handler
+Seed script with sample data
+🧱 Tech Stack
+Node.js
+Express.js
+Sequelize ORM
+SQLite
+JavaScript
+📁 Project Structure
+project-root/
+│
+├── database/
+│   └── db.js
+│
+├── middleware/
+│   ├── errorHandler.js
+│   └── logger.js
+│
+├── models/
+│   ├── index.js
+│   ├── team.js
+│   ├── player.js
+│   └── playerStats.js
+│
+├── routes/
+│   ├── teams.js
+│   ├── players.js
+│   └── stats.js
+│
+├── seed.js
+├── setup.js
+├── server.js
+├── package.json
+└── README.md
+⚙️ Setup Instructions
+Clone the repository
+git clone https://github.com/Ayden05h/BaseballAPI.git
+cd BaseballAPI
+Install dependencies
+npm install
+Set up the database
+node setup.js
+Run the server
+npm run dev
+Server will run on:
+http://localhost:3000
 <!--
 **Ayden05h/Ayden05h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
