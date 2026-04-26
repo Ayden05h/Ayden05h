@@ -34,6 +34,8 @@ I am a computer science major at Lourdes University. I love all things tech rela
 -I enjoy videogames
 -I am forklift certified
 
+  ## Advanced Projects
+  Baseball API
 📌 This project is part of my professional portfolio, where I showcase full-stack backend development skills through real-world applications.
 📖 Project Description
 The BaseballAPI is a full CRUD REST API designed to manage baseball teams, players, and player statistics in a structured and relational database system. This project reflects my ability to build scalable backend systems that simulate real-world data interactions, similar to applications used in sports analytics and team management platforms.
@@ -100,17 +102,28 @@ Run the server
 npm run dev
 Server will run on:
 http://localhost:3000
-<!--
-**Ayden05h/Ayden05h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Technical Interview 
+For my final project, I completed a full technical interview simulation where I solved and explained algorithmic problems using Python. This project focused not only on writing correct code, but also on clearly communicating my thought process, comparing multiple approaches, and analyzing time and space complexity.
+Throughout the project, I worked on problems such as Coin Change, Number of Islands, and Majority Element, applying key computer science concepts including dynamic programming, graph traversal (DFS), and the Boyer-Moore Voting Algorithm.
+🧠 Skills Demonstrated
+Algorithmic problem solving
+Data structures and optimization techniques
+Time and space complexity analysis
+Debugging and testing
+Technical communication (explaining solutions step-by-step)
+Python programming
+🎥 Mock Interview Video
+👉 Watch my technical interview:
+https://youtu.be/B8ycS3xB1Mw
+💻 Code & Implementation
+Majority Element: https://leetcode.com/playground/S2fcDmda
+📈 Key Takeaways
+Improved my ability to break down complex problems into clear steps
+Learned how to compare and justify multiple algorithmic approaches
+Strengthened my understanding of efficiency (O(n), O(log n), etc.)
+Gained confidence explaining technical solutions under pressure
+💡 Why This Project Matters
+This project reflects my ability to not only solve technical problems, but also communicate my reasoning clearly—an essential skill in both software development and business analysis roles. It demonstrates my growth in writing efficient code, thinking critically, and preparing for real-world technical interviews.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
